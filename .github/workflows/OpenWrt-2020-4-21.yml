@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: OpenWrt-2020-4-21
+name: OpenWrt-2020-4-23
 
 on:
   push:
